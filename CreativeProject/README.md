@@ -1,9 +1,5 @@
 ### FunShop Creative Project ###   
 
-###Partner Infomation :   
-* Lin Li, lilin1@wustl.edu, 467362   
-* Jie Miao, j.miao@wustl.edu, 463615
-
 #### Description :   
 we had created a shopping website using React.js for our front-end, flask for back-end and MySQL for database.     
 
